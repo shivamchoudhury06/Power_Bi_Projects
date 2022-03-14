@@ -1,0 +1,15 @@
+Data Protection Service- Customer not using data protection tend to churn out in the initial years. The company can advertise to the customers regarding the data protection service 
+and  the benifits of the service.
+
+Music Time - The churn out rate is 26.5% and the churn rate for customer using Music Time is 22.5%. This shows that the company should not stop Music Time service.
+
+Global Connect - The churn out rate for customer not using global connect is 19.1%. The company should focus on advertising this service.
+
+Streaming Movies - The churn graph is high in the initial months of the service. Therefore company should focus more on this service.
+
+Mobile Money - According to the customer retention graph companies should advertise more regarding this service so that customers gain trust and use this service.
+
+ Streaming TV - Same goes with this service also, the company should advertise this service but customers using this service also tend to churn out, we have to dig deep 
+ 		to find out the reason for leaving the company.
+ 		If we will dig deep we will find out that male tend to leave the company after using this service.
+ 		
